@@ -16,3 +16,6 @@ install all using
 ```
 pip install -r requirements.txt`
 ```
+
+## Final Image
+![portrait](https://github.com/darcys22/Colour-Key/blob/master/portrait.png)
