@@ -14,7 +14,7 @@ Run using python3, has the following dependencies:
 
 install all using
 ```
-pip install -r requirements.txt`
+pip install -r requirements.txt
 ```
 
 ## Final Image
